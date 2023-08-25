@@ -8,3 +8,13 @@
         "lib": "lib"
 },
 
+"scripts": {
+    "start": "node index.js",
+    "test": "jest"
+}, 
+
+"repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayamccann/SVG-Logo-Maker.git"
+},
+
