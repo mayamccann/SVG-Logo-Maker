@@ -11,8 +11,8 @@ function createLogo(response) {
 
 function init() {
     inquirer
-    .createPromptModule(questions)
-    .then ((response)) => {
+    .prompt(questions)
+    .then ((response) => {
         createLogo(response);
     })
     .catch(err => {
