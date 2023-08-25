@@ -1,37 +1,60 @@
 {
 
     "name": "svg-logo-maker",
+
     "version": "1.0.0",
+
     "description": "",
+
     "main": "index.js",
+
     "directories": {
+
         "lib": "lib"
-},
 
-"scripts": {
-    "start": "node index.js",
-    "test": "jest"
-}, 
+    },
 
-"repository": {
-    "type": "git",
-    "url": "git+https://github.com/mayamccann/SVG-Logo-Maker.git"
-},
+    "scripts": {
 
-"keywords": [],
-"author": "",
-"license": "ISC",
-"bugs" : {
-    "url": "https://github.com/mayamccann/SVG-Logo-Maker/issues"
-}, 
+        "start": "node index.js",
 
-"homepage": "https://github.com/mayamccann/SVG-Logo-Maker#readme", 
-"dependencies": {
-    "inquirer": "^8.2.4"
-},
+        "test": "jest"
 
-"devDependencies": {
-    "jest": "^29.5.0"
+    },
+
+    "repository": {
+
+        "type": "git",
+
+        "url": "git+https://github.com/mayamccann/SVG-Logo-Maker.git"
+
+    },
+
+    "keywords": [],
+
+    "author": "",
+
+    "license": "ISC",
+
+    "bugs": {
+
+        "url": "https://github.com/mayamccann/SVG-Logo-Maker/issues"
+
+    },
+
+    "homepage": "https://github.com/mayamccann/SVG-Logo-Maker#readme",
+
+    "dependencies": {
+
+        "inquirer": "^8.2.4"
+
+    },
+
+    "devDependencies": {
+
+        "jest": "^29.6.4"
+
+    }
+
 }
 
-}
