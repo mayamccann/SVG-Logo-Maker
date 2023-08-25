@@ -25,3 +25,13 @@
     "url": "https://github.com/mayamccann/SVG-Logo-Maker/issues"
 }, 
 
+"homepage": "https://github.com/mayamccann/SVG-Logo-Maker#readme", 
+"dependencies": {
+    "inquirer": "^8.2.4"
+},
+
+"devDependencies": {
+    "jest": "^29.5.0"
+}
+
+}
